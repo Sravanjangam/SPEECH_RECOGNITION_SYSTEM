@@ -15,3 +15,7 @@ The "Speech Recognition System" project is a real-time voice-to-text converter b
 
 OUTPUT:
 
+
+
+![Image](https://github.com/user-attachments/assets/8311b29b-0918-48ae-8b33-ad1401ab565d)
+
